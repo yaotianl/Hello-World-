@@ -5,3 +5,5 @@ Modified 1.
 Make a small change online to do the test.
 
 Make another change for git stash.
+
+Make a change to practice the log and revert
